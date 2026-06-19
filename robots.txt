@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-rz792f.copilotsuite.us/sitemap.xml
